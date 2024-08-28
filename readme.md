@@ -1,5 +1,5 @@
 # Trackle
-<a href="link-do-site"><img src="link-da-imagem"></a>
+<a href="link-do-site" title="Trackle"><img src="link-da-imagem" title="Logo-Trackle"></a>
 ---
 ## Membros:
 + Davi Ferreira Puddo
