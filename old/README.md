@@ -1,3 +1,5 @@
+# Projeto antigo
+
 # Trackle
 
 O objetivo do Trackle é solucionar a dificuldade de ser produtivo. Para tal, ela auxiliará o usuário a organizar uma rotina diante das tarefas e a disponibilidade para realizá-las. Esse objetivo será alcançado a partir da disponibilização de ferramentas que auxiliarão o usuário na criação ou aprimoramento de uma rotina, como registro das tarefas e suas características, priorização, acompanhamento do progresso e distribuição destas em um calendário interativo. A aplicação também usará o conceito de gamificação para motivar o usuário, a partir de funcionalidades como desafios e recompensas.
