@@ -1,0 +1,723 @@
+{
+  "users": [
+    {
+      "id": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "name": "Mateus",
+      "email": "mateushmdiniz@gmail.com",
+      "password": "$2b$10$FPcBZEfI.SOX1imc7.Yf3.22wAHCs2hmhBTpJ6nu/inSgNvCF7rSW",
+      "level": 3,
+      "experience": 350,
+      "tasksCreated": 157,
+      "tasksCompleted": 309,
+      "discussionsStarted": 15,
+      "commentsMade": 30,
+      "picturePath": "32c4880f-d626-4bca-b5d9-baf7a7735b9c.jpg",
+      "aboutMe": "asdasd",
+      "bannerColor": "#2b00ff",
+      "creationDate": "21/06/2024"
+    },
+    {
+      "id": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "name": "Garry",
+      "email": "chenri48155@gmail.com",
+      "password": "$2b$10$cC5xcYsGqDWx9vE3HGjvCOkK4NoeBVenlogKmrMfRbPGfPFG9Q/Hq",
+      "level": 0,
+      "experience": 700,
+      "tasksCreated": 6,
+      "tasksCompleted": 2,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "84e9195e-90f2-4242-806e-8d1cd2004805.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "23/06/2024"
+    },
+    {
+      "id": "ce16a42f-7fca-4162-bfab-da9a7759c9d9",
+      "name": "henrique",
+      "email": "henriiqueacs@gmail.com",
+      "password": "$2b$10$Q0uceTi/2gG2mKCOjdipVudVKCatnvNTrrap0VWuSffqEVa27F5lG",
+      "level": 1,
+      "experience": 200,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": null,
+      "aboutMe": "teste",
+      "bannerColor": "#ae3737",
+      "creationDate": "28/06/2024"
+    },
+    {
+      "id": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "name": "teste",
+      "email": "test@gmail.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 1,
+      "experience": 700,
+      "tasksCreated": 12,
+      "tasksCompleted": 3,
+      "discussionsStarted": 1,
+      "commentsMade": 3,
+      "picturePath": "8d88865b-f763-4d19-a551-91e7f7f0c5ab.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "1",
+      "name": "malenia123",
+      "email": "user1@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "1.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "2",
+      "name": "dr. nada estranho",
+      "email": "user2@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "2.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "3",
+      "name": "homem libelula",
+      "email": "user3@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "3.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "4",
+      "name": "esponja, bob",
+      "email": "user4@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "4.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "5",
+      "name": "carolina",
+      "email": "user5@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "5.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "6",
+      "name": "barbie002",
+      "email": "user6@example.com",
+      "password": "$2b$10$f5gFJjuoy3T0tKtf68i79usDUo4BklDFaHXRBKiSqyqpj2pomIvke",
+      "level": 0,
+      "experience": 0,
+      "tasksCreated": 0,
+      "tasksCompleted": 0,
+      "discussionsStarted": 0,
+      "commentsMade": 0,
+      "picturePath": "6.jpg",
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    },
+    {
+      "id": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "name": "Silas Hoffmann Reis Viana",
+      "email": "silasrviana@gmail.com",
+      "password": "$2b$10$vPRgqpzBHiojHPIwvHHWT.zdeYDZthb05B6kO8wrt1Hfc9jyr0oa6",
+      "level": 0,
+      "experience": 800,
+      "tasksCreated": 4,
+      "tasksCompleted": 1,
+      "discussionsStarted": 1,
+      "commentsMade": 2,
+      "picturePath": null,
+      "aboutMe": "",
+      "bannerColor": "#aaa",
+      "creationDate": "30/06/2024"
+    }
+  ],
+  "resetTokens": [],
+  "discussions": [
+    {
+      "id": "2",
+      "authorId": "1",
+      "title": "Integer nec odio",
+      "text": "Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+      "date": "02/05/2024",
+      "commentCount": 5
+    },
+    {
+      "id": "3",
+      "authorId": "2",
+      "title": "Sed nisi",
+      "text": "Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+      "date": "03/05/2024",
+      "commentCount": 0
+    },
+    {
+      "id": "4",
+      "authorId": "3",
+      "title": "Duis sagittis ipsum",
+      "text": "Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.",
+      "date": "04/05/2024",
+      "commentCount": 0
+    },
+    {
+      "id": "5",
+      "authorId": "4",
+      "title": "Mauris massa",
+      "text": "Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "date": "05/05/2024",
+      "commentCount": 0
+    },
+    {
+      "id": "6",
+      "authorId": "5",
+      "title": "Curabitur sodales ligula in libero",
+      "text": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.",
+      "date": "06/05/2024",
+      "commentCount": 0
+    },
+    {
+      "id": "7",
+      "authorId": "6",
+      "title": "Sed cursus ante dapibus",
+      "text": "Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
+      "date": "07/05/2024",
+      "commentCount": 0
+    },
+    {
+      "id": "554b",
+      "authorId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "title": "Minha discussão",
+      "text": "Essa é a minha discussão",
+      "date": "23/06/2024",
+      "commentCount": 3
+    },
+    {
+      "id": "a182",
+      "authorId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "title": "Discussão",
+      "text": "Essa é sem sombra de dúvidas uma discussão",
+      "date": "23/06/2024",
+      "commentCount": 1
+    },
+    {
+      "id": "5ab3",
+      "authorId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "title": "QUERO XP",
+      "text": "me da xp",
+      "date": "29/06/2024",
+      "commentCount": 1
+    },
+    {
+      "id": "6aa4",
+      "authorId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "title": "ME AJUDA!!!!",
+      "text": "estou com dificuldades para terminar um trabalho, me ajudem",
+      "date": "30/06/2024",
+      "commentCount": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "authorId": "5",
+      "target": 0,
+      "targetId": "2",
+      "text": "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "likes": 1,
+      "date": "06/06/2024",
+      "edited": false,
+      "authorName": "carolina",
+      "picturePath": "5.jpg"
+    },
+    {
+      "id": "1",
+      "authorId": "6",
+      "target": 0,
+      "targetId": "2",
+      "text": "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "likes": 0,
+      "date": "06/06/2024",
+      "edited": false
+    },
+    {
+      "id": "01aa",
+      "authorId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "target": 0,
+      "targetId": "2",
+      "text": "comentando aqui!! <3",
+      "likes": 0,
+      "date": "23/06/2024",
+      "edited": true
+    },
+    {
+      "id": "7b24",
+      "authorId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "target": 0,
+      "targetId": "554b",
+      "text": "INCRÍVEL!!!",
+      "likes": 1,
+      "date": "23/06/2024",
+      "edited": false,
+      "authorName": "Mateus",
+      "picturePath": "32c4880f-d626-4bca-b5d9-baf7a7735b9c.jpg"
+    },
+    {
+      "id": "46fe",
+      "authorId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "target": 0,
+      "targetId": "a182",
+      "text": "LÚCIDO!!!",
+      "likes": 0,
+      "date": "23/06/2024",
+      "edited": false
+    },
+    {
+      "id": "e022",
+      "authorId": null,
+      "target": 0,
+      "targetId": "2",
+      "text": "asd",
+      "likes": 1,
+      "date": "28/06/2024",
+      "edited": false
+    },
+    {
+      "id": "284e",
+      "authorId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "target": 0,
+      "targetId": "2",
+      "text": "comentando pra ganhar xp",
+      "likes": 0,
+      "date": "29/06/2024",
+      "edited": false
+    },
+    {
+      "id": "f5a9",
+      "authorId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "target": 0,
+      "targetId": "5ab3",
+      "text": "toma seu xp aí",
+      "likes": 0,
+      "date": "30/06/2024",
+      "edited": false
+    },
+    {
+      "id": "fc30",
+      "authorId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "target": 0,
+      "targetId": "554b",
+      "text": "UM FILÓSOFO CONTEMPORÂNEO",
+      "likes": 0,
+      "date": "30/06/2024",
+      "edited": false,
+      "authorName": "teste",
+      "picturePath": "8d88865b-f763-4d19-a551-91e7f7f0c5ab.jpg"
+    },
+    {
+      "id": "c4c9",
+      "authorId": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "target": 0,
+      "targetId": "554b",
+      "text": "legal",
+      "likes": 0,
+      "date": "30/06/2024",
+      "edited": false,
+      "authorName": "Silas Hoffmann Reis Viana",
+      "picturePath": null
+    }
+  ],
+  "likes": [
+    {
+      "id": "518c",
+      "commentId": "7b24",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab"
+    },
+    {
+      "id": "de18",
+      "commentId": "e022",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7"
+    },
+    {
+      "id": "dc30",
+      "commentId": "0",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "733f",
+      "discussionId": "2",
+      "userId": "0"
+    },
+    {
+      "id": "dc62",
+      "discussionId": "3",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805"
+    },
+    {
+      "id": "e7ea",
+      "discussionId": "2",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c"
+    },
+    {
+      "id": "4d2c",
+      "discussionId": "2",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805"
+    },
+    {
+      "id": "7cd1",
+      "discussionId": "554b",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "title": "Estudar prova de calculo 1",
+      "description": "Limites ",
+      "complete": true,
+      "term": "2024-02-07",
+      "priority": "alta"
+    },
+    {
+      "id": "5613",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "title": "Finalizar TI1",
+      "description": "SOCORRO",
+      "term": "2024-07-01",
+      "priority": "alta"
+    },
+    {
+      "id": "bc59",
+      "title": "hoje1",
+      "description": "hoje1",
+      "term": "2024-06-30",
+      "priority": "baixa",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "dfbe",
+      "title": "hoje2",
+      "description": "hoje2",
+      "term": "2024-06-30",
+      "priority": "media",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "a583",
+      "title": "hoje3",
+      "description": "hoje3",
+      "term": "2024-06-30",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "c958",
+      "title": "hoje4",
+      "description": "hoje4",
+      "term": "2024-06-30",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": true
+    },
+    {
+      "id": "4a1f",
+      "title": "amanha1",
+      "description": "amanha1",
+      "term": "2024-07-01",
+      "priority": "baixa",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "0159",
+      "title": "amanha2",
+      "description": "amanha2",
+      "term": "2024-07-01",
+      "priority": "media",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "092e",
+      "title": "amanha3",
+      "description": "amanha3",
+      "term": "2024-07-01",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "6dd4",
+      "title": "amanha4",
+      "description": "amanha4",
+      "term": "2024-07-01",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": true
+    },
+    {
+      "id": "6b8f",
+      "title": "ontem1",
+      "description": "ontem1",
+      "term": "2024-06-29",
+      "priority": "baixa",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "39f9",
+      "title": "ontem2",
+      "description": "ontem2",
+      "term": "2024-06-29",
+      "priority": "media",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "07a0",
+      "title": "ontem3",
+      "description": "ontem3",
+      "term": "2024-06-29",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": false
+    },
+    {
+      "id": "0d9f",
+      "title": "ontem4",
+      "description": "ontem4",
+      "term": "2024-06-29",
+      "priority": "alta",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "complete": true
+    },
+    {
+      "id": "0883",
+      "title": "Prova de AEDs",
+      "description": "estudar para a prova de AEDs",
+      "term": "2024-07-01",
+      "priority": "alta",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "complete": false
+    },
+    {
+      "id": "a4dd",
+      "title": "Trabalho de Laboratório",
+      "description": "fazer trabalho de LIP",
+      "term": "2024-07-03",
+      "priority": "media",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "complete": false
+    },
+    {
+      "id": "4dcd",
+      "title": "teste",
+      "description": "teste",
+      "term": "2024-07-03",
+      "priority": "media",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "complete": false
+    },
+    {
+      "id": "a044",
+      "title": "teste",
+      "description": "teste",
+      "term": "2024-07-03",
+      "priority": "media",
+      "userId": "72fedb28-cae9-4719-890b-d7001ab8bbb7",
+      "complete": false
+    },
+    {
+      "id": "dd9f",
+      "title": "Estudar para AEDS",
+      "description": "C e C++",
+      "term": "2024-07-01",
+      "priority": "media",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "complete": false
+    },
+    {
+      "id": "9992",
+      "title": "hoje",
+      "description": "hoje",
+      "term": "2024-06-30",
+      "priority": "baixa",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "complete": false
+    },
+    {
+      "id": "37bb",
+      "title": "hoje2",
+      "description": "hoje2",
+      "term": "2024-06-30",
+      "priority": "baixa",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "complete": true
+    },
+    {
+      "id": "5e41",
+      "title": "Tarefa 1",
+      "description": "T",
+      "term": "2024-07-14",
+      "priority": "alta",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": false
+    },
+    {
+      "id": "633d",
+      "title": "Tarefa 2",
+      "description": "T",
+      "term": "2024-07-23",
+      "priority": "media",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": false
+    },
+    {
+      "id": "6e83",
+      "title": "Tarefa 3",
+      "description": "T",
+      "term": "2024-07-25",
+      "priority": "baixa",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": false
+    },
+    {
+      "id": "8710",
+      "title": "Tarefa 4",
+      "description": "T",
+      "term": "2024-07-10",
+      "priority": "baixa",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": true
+    },
+    {
+      "id": "6c06",
+      "title": "hoje 1",
+      "description": "h1",
+      "term": "2024-06-30",
+      "priority": "baixa",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": false
+    },
+    {
+      "id": "3407",
+      "title": "hoje 2",
+      "description": "h1",
+      "term": "2024-06-30",
+      "priority": "baixa",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "complete": true
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "ae16",
+      "userId": "32c4880f-d626-4bca-b5d9-baf7a7735b9c",
+      "date": 1719709516797,
+      "done": false,
+      "suggestions": [
+        {
+          "text": "As tarefas \"Finalizar TI1\" e \"test1\" possuem prioridade alta e vencem no mesmo dia. Deseja alterar a data da tarefa \"test1\" para 02/07/2024 para evitar um conflito entre tarefa de alta prioridade?",
+          "taskId": "c36b",
+          "action": 0,
+          "newValue": 1719889200000,
+          "answered": false
+        }
+      ]
+    },
+    {
+      "id": "0bb1",
+      "userId": "8d88865b-f763-4d19-a551-91e7f7f0c5ab",
+      "date": 1719766244268,
+      "done": false,
+      "suggestions": [
+        {
+          "text": "A tarefa \"hoje2\" está prestes a vencer. Deseja alterar a prioridade para alta?",
+          "taskId": "dfbe",
+          "action": 1,
+          "newValue": "alta",
+          "answered": false
+        },
+        {
+          "text": "A tarefa \"amanha2\" está prestes a vencer. Deseja alterar a prioridade para alta?",
+          "taskId": "0159",
+          "action": 1,
+          "newValue": "alta",
+          "answered": false
+        },
+        {
+          "text": "A tarefa \"ontem2\" está prestes a vencer. Deseja alterar a prioridade para alta?",
+          "taskId": "39f9",
+          "action": 1,
+          "newValue": "alta",
+          "answered": false
+        }
+      ]
+    },
+    {
+      "id": "7990",
+      "userId": "84e9195e-90f2-4242-806e-8d1cd2004805",
+      "date": 1719802919936,
+      "done": false,
+      "suggestions": [
+        {
+          "text": "A tarefa \"hoje 1\" está prestes a vencer. Deseja alterar a prioridade para alta?",
+          "taskId": "6c06",
+          "action": 1,
+          "newValue": "alta",
+          "answered": false
+        }
+      ]
+    }
+  ],
+  "notifications": []
+}
