@@ -8,5 +8,5 @@
 + Felipe Freitas Wandeck
 ---
 ## Professores responsaveis
-+  Wladimir Carlos Brandao
-+  Carolina Stephanie Jerônimo de Almeida
++
++
