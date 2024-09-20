@@ -7,3 +7,6 @@
 + Rafael Nascimento Jardim
 + Felipe Freitas Wandeck
 ---
+## Professores responsaveis
++
++
